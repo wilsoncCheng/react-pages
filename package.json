@@ -2,7 +2,7 @@
     "name": "first_react_app",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://wilsonccheng.github.io/react-pratice",
+    "homepage": "https://wilsonccheng.github.io/react-pages",
     "dependencies": {
         "@testing-library/jest-dom": "^5.16.4",
         "@testing-library/react": "^13.1.1",
